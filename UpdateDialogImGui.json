@@ -1,8 +1,8 @@
 {
   "Hello": {
-    "version": "1.2",
+    "version": "v1.2",
     "message": "Silakan perbarui aplikasi\nUntuk mendapatkan versi terbaru!",
     "link_download": "https://sfl.gl/RbYAi1U",
-    "version_code": "1.2"
+    "version_code": "v1.2"
   }
 }
