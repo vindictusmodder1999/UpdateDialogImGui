@@ -1,8 +1,7 @@
-
 {
-  "DPMods": {
+  "Hello": {
     "version": "1.0",
-    "message": "<b>Silahkan Klik Tombol PERBARUI<br>Untuk Memperbarui Aplikasi MOD<br>Jangan Lupa Uninstall Yg Lama",
+    "message": "Silakan perbarui aplikasi",
     "link_download": "https://sfl.gl/RbYAi1U",
     "version_code": "1.0"
   }
