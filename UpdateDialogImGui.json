@@ -1,6 +1,9 @@
+
 {
-  "version": "1.1",
-  "version_code": 2,
-  "message": "Versi terbaru tersedia.\nSilakan download versi terbaru.",
-  "link_download": "https://example.com/apk"
+  "DPMods": {
+    "version": "1.1",
+    "message": "<b>Silahkan Klik Tombol PERBARUI<br>Untuk Memperbarui Aplikasi MOD<br>Jangan Lupa Uninstall Yg Lama",
+    "link_download": "https://sfl.gl/RbYAi1U",
+    "version_code": "1.1"
+  }
 }
