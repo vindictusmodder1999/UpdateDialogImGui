@@ -1,0 +1,9 @@
+{
+  "version": "1.2.0",
+  "version_code": 12,
+  "title": "UPDATE",
+  "message": "Versi baru tersedia.",
+  "link_download": "https://contoh.com/apk",
+  "button_left": "Keluar",
+  "button_right": "OK"
+}
